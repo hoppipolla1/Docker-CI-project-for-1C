@@ -264,6 +264,8 @@ SonarScanner с именем "SonarQube Scanner"
 Allure
 ![image](https://user-images.githubusercontent.com/110767375/224957004-4d472f15-2d51-4c2f-81fd-ae0288a788ad.png)
 
+Allure также необходимо установить на рабочее место, для Windows проще всего сделать через scoop: scoop install allure
+
 В настройках системы необходимо заполнить следующие параметры:
 Jenkins URL - указать адрес кроме localhost
 
