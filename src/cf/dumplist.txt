@@ -1,0 +1,3 @@
+﻿New: Role.ПолныеПрава
+New: Role.ПолныеПрава.Rights
+Modified: Configuration.КаркаснаяКонфигурация

@@ -1,0 +1,10 @@
+{
+    "$schema": "https://raw.githubusercontent.com/firstBitMarksistskaya/jenkins-lib/master/resources/schema.json",
+    "v8version": "8.3.20.2184",
+    "stages": {
+        "initSteps": true,
+        "sonarqube": true,
+        "smoke": true,    
+        "syntaxCheck": true
+    }
+}

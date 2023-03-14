@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<opm-metadata xmlns="http://oscript.io/schemas/opm-metadata/1.0">
+    <name>add</name>
+    <version>6.8.0</version>
+    <author>Vanessa-OpenSource</author>
+    <description>Сборка Vanessa-ADD</description>
+    <engine-version>1.0.20</engine-version>
+    <depends-on name="asserts" dev="false"/>
+    <depends-on name="1commands" dev="false" version="1.3.0"/>
+    <depends-on name="logos" dev="false" version="0.6.2"/>
+    <depends-on name="cmdline" dev="false" version="0.6.2"/>
+    <depends-on name="tempfiles" dev="false" version="0.2.1"/>
+    <depends-on name="v8runner" dev="false" version="0.11.2"/>
+    <depends-on name="v8unpack" dev="false" version="1.0.1"/>
+    <depends-on name="fs" dev="false" version="1.0.0"/>
+</opm-metadata>

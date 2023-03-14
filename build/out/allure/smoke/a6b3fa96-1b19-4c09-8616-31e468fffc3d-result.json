@@ -1,0 +1,40 @@
+{
+"uuid": "89fae71d-be45-4945-8c39-d1d789d6d6f6",
+"historyId": "C:\\Users\\NIKU\\Desktop\\Docker_Gitlab\\test_docker\\tests\\smoke - <>.Проверка чтения не-администраторами - <>.Есть роли с полными/администраторскими полномочиями чтения - Проверка доступа на Чтение Не-Администраторами - <>",
+"name": "Есть роли с полными/администраторскими полномочиями чтения - Проверка доступа на Чтение Не-Администраторами - <>",
+"fullName": "",
+"start": 1678446117210,
+"stop": 1678446117211,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Проверка чтения не-администраторами - <>"
+},
+{
+"name": "feature",
+"value": "C:\\Users\\NIKU\\Desktop\\Docker_Gitlab\\test_docker\\tests\\smoke - <>"
+},
+{
+"name": "package",
+"value": "C:\\Users\\NIKU\\Desktop\\Docker_Gitlab\\test_docker\\tests\\smoke\\ПроверкаЧтенияНеАдминистраторами.epf"
+},
+{
+"name": "host",
+"value": "C:\\Users\\NIKU\\Desktop\\Docker_Gitlab\\test_docker\\tests\\smoke - <>"
+}
+],
+"links": [],
+"attachments": [],
+"description": "Тест_РолиОпределены"
+}

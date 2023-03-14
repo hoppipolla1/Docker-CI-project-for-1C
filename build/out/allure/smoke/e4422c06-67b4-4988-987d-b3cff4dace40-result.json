@@ -1,0 +1,40 @@
+{
+"uuid": "7fb2bff7-061e-492c-a2b9-7603d311eed4",
+"historyId": "Проверка режима блокировки - <>.Проверка режима блокировки данных ПланСчетов - <>.ПланСчетов.Управленческий - Проверка режима блокировки данных ПланСчетов - <>",
+"name": "ПланСчетов.Управленческий - Проверка режима блокировки данных ПланСчетов - <>",
+"fullName": "",
+"start": 1678446116697,
+"stop": 1678446116698,
+"statusDetails": {
+"known": false,
+"muted": false,
+"flaky": false,
+"message": "",
+"trace": ""
+},
+"status": "passed",
+"stage": "finished",
+"steps": [],
+"parameters": [],
+"labels": [
+{
+"name": "story",
+"value": "Проверка режима блокировки данных ПланСчетов - <>"
+},
+{
+"name": "feature",
+"value": "Проверка режима блокировки - <>"
+},
+{
+"name": "package",
+"value": "C:\\Users\\NIKU\\Desktop\\Docker_Gitlab\\test_docker\\tests\\smoke\\ПроверкаРежимаБлокировки.epf"
+},
+{
+"name": "host",
+"value": "Проверка режима блокировки - <>"
+}
+],
+"links": [],
+"attachments": [],
+"description": "Тест_ПроверитьРежимБлокировкиОбъекта"
+}
