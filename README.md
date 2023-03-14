@@ -16,8 +16,11 @@
 В папке tools выполнить административные настройки с помощью .cmd файлов git-global-init-admin.cmd и git-global-init.cmd
 
 Заполнить настройки .json файлов для работы с Vanessa в той же папке tools в файлах vrunner.json и xUnitParams.json, остальные файлы с настройками на усмотрение
+![image](https://user-images.githubusercontent.com/110767375/224966896-5f3fde39-e1e5-4298-9fd1-ab0334d4bf3f.png)
 
 Настроить файл для SonarQube sonar-project.properties
+![image](https://user-images.githubusercontent.com/110767375/224967267-f4461265-6e23-451b-9cb4-0862948863f6.png)
+
 
 Настройка Jenkins:
 
@@ -280,6 +283,10 @@ Global pipeline libraries - указать локальный репозитор
 Build Configuration - by JenkinsFile
 ![image](https://user-images.githubusercontent.com/110767375/224963216-d80e3918-383a-4b5c-8b29-7c77dd8aaa32.png)
 ![image](https://user-images.githubusercontent.com/110767375/224963291-d58d8d3e-a2ae-45fc-8615-88717edc2157.png)
+
+Настраивать этапы в пайплайне необходимо в файле JobConfiguration.json
+![image](https://user-images.githubusercontent.com/110767375/224967468-57c8804c-9c5e-4444-b39b-f4654ddf86e0.png)
+
 
 После всех настроек можно запускать сборку и как результат получить отчет allure, артефакты, проверенный проект в SonarQube и детальный Stage View
 ![image](https://user-images.githubusercontent.com/110767375/224964708-89593546-6cb9-4caf-ad79-b9bb411ff6ff.png)
